@@ -1,6 +1,6 @@
 # Hi, I'm Zome
 
-[![TokenPhage usage card with Chiikawa](https://kimjongmin-0041.github.io/tokenphage-badge-proxy/badges/KIMJONGMIN-0041.svg?v=usage)](https://kimjongmin-0041.github.io/tokenphage-badge-proxy/)
+[![TokenPhage usage card with Chiikawa](https://kimjongmin-0041.github.io/KIMJONGMIN-0041/badges/KIMJONGMIN-0041.svg?v=private-build)](https://kimjongmin-0041.github.io/KIMJONGMIN-0041/)
 
 ## Education
 
