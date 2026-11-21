@@ -7,13 +7,17 @@
 - **M.S. in Data Science**, Pusan National University (2026.03 ~ 2028.02)
   - Advisor: Prof. Hyerim Bae
 
-## Skills
+## Education
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="42" alt="Python" title="Python">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" height="42" alt="PyTorch" title="PyTorch">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" height="42" alt="scikit-learn" title="scikit-learn">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" height="42" alt="NumPy" title="NumPy">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" height="42" alt="pandas" title="pandas">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" height="42" alt="Jupyter" title="Jupyter">
-</p>
+- **M.S. in Data Science**, Pusan National University (2026.03 ~ 2028.02)
+  - Advisor: Prof. Hyerim Bae
+
+## 🧰 Skills
+
+![Python](https://img.shields.io/badge/Python-3674A9?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-B63B2E?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-A95112?style=for-the-badge&logo=scikitlearn&logoColor=white)
+
+![NumPy](https://img.shields.io/badge/NumPy-176D73?style=for-the-badge&logo=numpy&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-49377D?style=for-the-badge&logo=pandas&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-A54426?style=for-the-badge&logo=jupyter&logoColor=white)
