@@ -7,16 +7,19 @@
 - **M.S. in Data Science**, Pusan National University (2026.03 ~ 2028.02)
   - Advisor: Prof. Hyerim Bae
 
-## 🧰 Skills
+## Skills
 
-<p><img src="assets/skills/python.svg" alt="Python" width="107" height="38">
-<img src="assets/skills/pytorch.svg" alt="PyTorch" width="114" height="38">
-<img src="assets/skills/scikitlearn.svg" alt="scikit-learn" width="137" height="38"></p>
+<p>
+<img src="assets/skills/python.svg?style=tiles" alt="Python" title="Python" width="80" height="68">
+<img src="assets/skills/pytorch.svg?style=tiles" alt="PyTorch" title="PyTorch" width="80" height="68">
+<img src="assets/skills/scikitlearn.svg?style=tiles" alt="scikit-learn" title="scikit-learn" width="80" height="68">
+<img src="assets/skills/numpy.svg?style=tiles" alt="NumPy" title="NumPy" width="80" height="68">
+<img src="assets/skills/pandas.svg?style=tiles" alt="pandas" title="pandas" width="80" height="68">
+</p>
 
-<p><img src="assets/skills/numpy.svg" alt="NumPy" width="107" height="38">
-<img src="assets/skills/pandas.svg" alt="pandas" width="110" height="38">
-<img src="assets/skills/jupyter.svg" alt="Jupyter" width="113" height="38"></p>
-
-<p><img src="assets/skills/geopandas.svg" alt="GeoPandas" width="132" height="38">
-<img src="assets/skills/duckdb.svg" alt="DuckDB" width="114" height="38">
-<img src="assets/skills/leaflet.svg" alt="Leaflet" width="112" height="38"></p>
+<p>
+<img src="assets/skills/jupyter.svg?style=tiles" alt="Jupyter" title="Jupyter" width="80" height="68">
+<img src="assets/skills/geopandas.svg?style=tiles" alt="GeoPandas" title="GeoPandas" width="80" height="68">
+<img src="assets/skills/duckdb.svg?style=tiles" alt="DuckDB" title="DuckDB" width="80" height="68">
+<img src="assets/skills/leaflet.svg?style=tiles" alt="Leaflet" title="Leaflet" width="80" height="68">
+</p>

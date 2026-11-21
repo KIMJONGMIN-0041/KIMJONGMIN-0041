@@ -1,14 +1,34 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="107" height="38" viewBox="0 0 107 38" role="img" aria-label="Python">
+<svg xmlns="http://www.w3.org/2000/svg" width="80" height="68" viewBox="0 0 80 68" role="img" aria-label="Python">
   <title>Python</title>
-  <defs>
-    <linearGradient id="face" x2="0" y2="1"><stop stop-color="#3776AD"/><stop offset="1" stop-color="#24436E"/></linearGradient>
-    <linearGradient id="rim" x2="0" y2="1"><stop stop-color="#8AC1FC"/><stop offset="1" stop-color="#3776AD"/></linearGradient>
-    <linearGradient id="tile" x2="0" y2="1"><stop stop-color="#24436E"/><stop offset="1" stop-color="#3776AD"/></linearGradient>
-  </defs>
-  <rect x="1" y="4" width="105" height="32" rx="8" fill="#05080E" opacity=".32"/>
-  <rect x="1.5" y="1.5" width="104" height="32" rx="8" fill="url(#face)" stroke="url(#rim)"/>
-  <rect x="3" y="3" width="101" height="30" rx="7" fill="none" stroke="#FFFFFF" opacity=".13"/>
-  <rect x="7" y="6" width="23" height="23" rx="6" fill="url(#tile)" stroke="#8AC1FC" stroke-opacity=".5"/>
-  <g transform="translate(10.5 9.5) scale(.67)" fill="#FFFFFF"><path d="M11.858 0c-.978.005-1.913.088-2.736.234C6.7.662 6.26 1.558 6.26 3.21v2.182h5.725v.727H4.111c-1.664 0-3.121 1-3.577 2.903-.526 2.181-.549 3.542 0 5.82.407 1.694 1.379 2.902 3.043 2.902h1.969v-2.616c0-1.89 1.635-3.557 3.576-3.557h5.72c1.591 0 2.862-1.31 2.862-2.91v-5.45c0-1.553-1.309-2.718-2.863-2.977A18 18 0 0 0 11.858 0M8.762 1.755c.591 0 1.074.491 1.074 1.095 0 .601-.483 1.087-1.074 1.087A1.08 1.08 0 0 1 7.688 2.85c0-.604.48-1.095 1.074-1.095m9.656 4.364v2.543c0 1.971-1.671 3.63-3.577 3.63H9.122c-1.566 0-2.862 1.34-2.862 2.91v5.452c0 1.551 1.349 2.464 2.862 2.91 1.813.532 3.55.628 5.72 0 1.44-.418 2.862-1.258 2.862-2.91V18.47h-5.719v-.727h8.582c1.664 0 2.284-1.16 2.862-2.903.598-1.793.573-3.518 0-5.819-.41-1.656-1.196-2.903-2.862-2.903zm-3.216 13.807a1.08 1.08 0 0 1 1.074 1.088c0 .604-.48 1.094-1.074 1.094-.592 0-1.075-.49-1.075-1.094 0-.601.483-1.088 1.075-1.088"/></g>
-  <text x="37" y="22" font-family="Segoe UI, Verdana, sans-serif" font-size="12" font-weight="700" letter-spacing=".25" fill="#FFFFFF">Python</text>
+  <style>
+    .caption { fill: #AEBACC; }
+    @media (prefers-color-scheme: light) {
+      .caption { fill: #475569; }
+      .geo-tile { fill: #F4F2ED; }
+      .geo-logo { fill: #14795D; }
+    }
+  </style>
+  <svg xmlns="http://www.w3.org/2000/svg" width="44" height="44" title="Python" viewBox="0 0 256 256" fill="none" id="python" x="18" y="2" aria-hidden="true">
+<style>
+#python {
+    rect {fill: #15191C}
+
+    @media (prefers-color-scheme: light) {
+        rect {fill: #F4F2ED}
+    }
+}
+</style>
+<rect width="256" height="256" rx="64" fill="#15191C" stroke="#8496AD" stroke-width="5" stroke-opacity=".14" />
+<path d="M126.988 42.0014C119.978 42.034 113.284 42.6318 107.393 43.6741C90.0416 46.7396 86.8912 53.156 86.8912 64.9888V80.6164H127.896V85.8256H86.8912H71.5025C59.5855 85.8256 49.1505 92.9885 45.8866 106.615C42.1217 122.233 41.9547 131.98 45.8866 148.288C48.8014 160.428 55.7622 169.077 67.6793 169.077H81.7776V150.343C81.7776 136.809 93.4877 124.871 107.393 124.871H148.35C159.751 124.871 168.853 115.484 168.853 104.034V64.9888C168.853 53.8763 159.478 45.5287 148.35 43.6741C141.306 42.5015 133.998 41.9688 126.988 42.0014ZM104.813 54.5704C109.048 54.5704 112.507 58.0857 112.507 62.4081C112.507 66.7152 109.048 70.198 104.813 70.198C100.562 70.198 97.1185 66.7152 97.1185 62.4081C97.1185 58.0857 100.562 54.5704 104.813 54.5704Z" fill="url(#linearGradient1)" />
+<path d="M173.966 85.8256V104.034C173.966 118.151 161.998 130.032 148.35 130.032H107.393C96.1747 130.032 86.8912 139.634 86.8912 150.869V189.914C86.8912 201.027 96.5543 207.563 107.393 210.751C120.373 214.568 132.82 215.257 148.35 210.751C158.673 207.762 168.853 201.747 168.853 189.914V174.287H127.896V169.077H168.853H189.355C201.272 169.077 205.713 160.765 209.857 148.288C214.138 135.444 213.956 123.092 209.857 106.615C206.912 94.7512 201.287 85.8256 189.355 85.8256H173.966ZM150.931 184.705C155.182 184.705 158.625 188.188 158.625 192.495C158.625 196.817 155.182 200.333 150.931 200.333C146.695 200.333 143.237 196.817 143.237 192.495C143.237 188.188 146.695 184.705 150.931 184.705Z" fill="url(#linearGradient2)" />
+<linearGradient id="linearGradient1" x1="43" y1="42" x2="137.552" y2="122.571" gradientUnits="userSpaceOnUse">
+<stop stop-color="#5A9FD4" />
+<stop offset="1" stop-color="#306998" />
+</linearGradient>
+<linearGradient id="linearGradient2" x1="149.946" y1="191.181" x2="116.024" y2="143.647" gradientUnits="userSpaceOnUse">
+<stop stop-color="#FFD43B" />
+<stop offset="1" stop-color="#FFE873" />
+</linearGradient>
+</svg>
+  <text class="caption" x="40" y="62" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="10.5" font-weight="550">Python</text>
 </svg>

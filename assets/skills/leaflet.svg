@@ -1,14 +1,44 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="112" height="38" viewBox="0 0 112 38" role="img" aria-label="Leaflet">
+<svg xmlns="http://www.w3.org/2000/svg" width="80" height="68" viewBox="0 0 80 68" role="img" aria-label="Leaflet">
   <title>Leaflet</title>
-  <defs>
-    <linearGradient id="face" x2="0" y2="1"><stop stop-color="#487F42"/><stop offset="1" stop-color="#2E5134"/></linearGradient>
-    <linearGradient id="rim" x2="0" y2="1"><stop stop-color="#BEE89B"/><stop offset="1" stop-color="#487F42"/></linearGradient>
-    <linearGradient id="tile" x2="0" y2="1"><stop stop-color="#2E5134"/><stop offset="1" stop-color="#487F42"/></linearGradient>
-  </defs>
-  <rect x="1" y="4" width="110" height="32" rx="8" fill="#05080E" opacity=".32"/>
-  <rect x="1.5" y="1.5" width="109" height="32" rx="8" fill="url(#face)" stroke="url(#rim)"/>
-  <rect x="3" y="3" width="106" height="30" rx="7" fill="none" stroke="#FFFFFF" opacity=".13"/>
-  <rect x="7" y="6" width="23" height="23" rx="6" fill="url(#tile)" stroke="#BEE89B" stroke-opacity=".5"/>
-  <g transform="translate(10.5 9.5) scale(.67)" fill="#FFFFFF"><path d="M17.69 0c-.355.574-8.432 4.74-10.856 8.649-2.424 3.91-3.116 6.988-2.237 9.882.879 2.893 2.559 2.763 3.516 3.717.958.954 2.257 2.113 4.332 1.645 2.717-.613 5.335-2.426 6.638-7.508 1.302-5.082.448-9.533-.103-11.99A35.395 35.395 0 0 0 17.69 0zm-.138.858l-9.22 21.585-.574-.577Z"/></g>
-  <text x="37" y="22" font-family="Segoe UI, Verdana, sans-serif" font-size="12" font-weight="700" letter-spacing=".25" fill="#FFFFFF">Leaflet</text>
+  <style>
+    .caption { fill: #AEBACC; }
+    @media (prefers-color-scheme: light) {
+      .caption { fill: #475569; }
+      .geo-tile { fill: #F4F2ED; }
+      .geo-logo { fill: #14795D; }
+    }
+  </style>
+  <svg xmlns="http://www.w3.org/2000/svg" width="44" height="44" title="Leaflet" viewBox="0 0 256 256" fill="none" id="leaflet" x="18" y="2" aria-hidden="true">
+<style>
+#leaflet {
+    rect {fill: #15191C}
+
+    @media (prefers-color-scheme: light) {
+        rect {fill: #F4F2ED}
+    }
+}
+</style>
+<rect width="256" height="256" rx="64" fill="#15191C" stroke="#8496AD" stroke-width="5" stroke-opacity=".14" />
+<path d="M63.7149 111.792C65.4427 113.811 99.3667 125.123 111.161 138.867C122.956 152.612 128.104 164.879 126.439 176.674C124.776 188.468 117.568 188.273 114.42 192.569C111.273 196.863 106.926 202.16 98.5732 201.596C87.6372 200.862 76.3609 195.391 68.2169 176.403C60.0729 157.413 60.6993 139.575 61.349 129.678C61.9986 119.784 63.7002 111.792 63.7002 111.792H63.7149Z" fill="url(#paint0_linear_6_2)" />
+<path d="M66.7863 115.697L112.197 194.871L109.679 197.318" fill="url(#paint1_linear_6_2)" />
+<path d="M182.156 48C179.797 51.8278 126.007 79.5938 109.862 105.658C93.7185 131.722 89.1128 152.245 94.966 171.537C100.818 190.826 112.004 189.957 118.381 196.318C124.759 202.682 133.41 210.404 147.229 207.286C165.323 203.202 182.76 191.112 191.433 157.232C200.106 123.351 194.419 93.6816 190.753 77.2997C187.089 60.9195 182.158 48 182.158 48H182.156Z" fill="url(#paint2_linear_6_2)" />
+<path d="M181.241 53.7215L116.014 193.773L119.842 197.621" fill="url(#paint3_linear_6_2)" />
+<linearGradient id="paint0_linear_6_2" x1="64.8809" y1="133.723" x2="210.919" y2="162.173" gradientUnits="userSpaceOnUse">
+<stop stop-color="#89C442" />
+<stop offset="1" stop-color="#74B844" />
+</linearGradient>
+<linearGradient id="paint1_linear_6_2" x1="60.9246" y1="114.748" x2="184.058" y2="149.037" gradientUnits="userSpaceOnUse">
+<stop stop-color="#74B844" />
+<stop offset="1" stop-color="#4A9634" />
+</linearGradient>
+<linearGradient id="paint2_linear_6_2" x1="-795.221" y1="-2179.96" x2="-936.177" y2="-2118.34" gradientUnits="userSpaceOnUse">
+<stop stop-color="#C1EA71" />
+<stop offset="1" stop-color="#ACDA55" />
+</linearGradient>
+<linearGradient id="paint3_linear_6_2" x1="-564.251" y1="-2172.77" x2="-665.058" y2="-2139" gradientUnits="userSpaceOnUse">
+<stop stop-color="#ACDA55" />
+<stop offset="1" stop-color="#89C442" />
+</linearGradient>
+</svg>
+  <text class="caption" x="40" y="62" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="10.5" font-weight="550">Leaflet</text>
 </svg>

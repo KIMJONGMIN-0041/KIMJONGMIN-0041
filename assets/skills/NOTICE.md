@@ -1,0 +1,1 @@
+Skill logo artwork adapted from [Skills Icons](https://github.com/syvixor/skills-icons/tree/fa6da1c7b8809e69cf688495bb16f09207b2cd88/icons) under the MIT license. The GeoPandas mark is from [Simple Icons](https://github.com/simple-icons/simple-icons).

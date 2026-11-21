@@ -1,14 +1,26 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="114" height="38" viewBox="0 0 114 38" role="img" aria-label="PyTorch">
+<svg xmlns="http://www.w3.org/2000/svg" width="80" height="68" viewBox="0 0 80 68" role="img" aria-label="PyTorch">
   <title>PyTorch</title>
-  <defs>
-    <linearGradient id="face" x2="0" y2="1"><stop stop-color="#C9493D"/><stop offset="1" stop-color="#823226"/></linearGradient>
-    <linearGradient id="rim" x2="0" y2="1"><stop stop-color="#FFAD95"/><stop offset="1" stop-color="#C9493D"/></linearGradient>
-    <linearGradient id="tile" x2="0" y2="1"><stop stop-color="#823226"/><stop offset="1" stop-color="#C9493D"/></linearGradient>
-  </defs>
-  <rect x="1" y="4" width="112" height="32" rx="8" fill="#05080E" opacity=".32"/>
-  <rect x="1.5" y="1.5" width="111" height="32" rx="8" fill="url(#face)" stroke="url(#rim)"/>
-  <rect x="3" y="3" width="108" height="30" rx="7" fill="none" stroke="#FFFFFF" opacity=".13"/>
-  <rect x="7" y="6" width="23" height="23" rx="6" fill="url(#tile)" stroke="#FFAD95" stroke-opacity=".5"/>
-  <g transform="translate(10.5 9.5) scale(.67)" fill="#FFFFFF"><path d="M12.005 0L4.952 7.053a9.865 9.865 0 000 14.022 9.866 9.866 0 0014.022 0c3.984-3.9 3.986-10.205.085-14.023l-1.744 1.743c2.904 2.905 2.904 7.634 0 10.538s-7.634 2.904-10.538 0-2.904-7.634 0-10.538l4.647-4.646.582-.665zm3.568 3.899a1.327 1.327 0 00-1.327 1.327 1.327 1.327 0 001.327 1.328A1.327 1.327 0 0016.9 5.226 1.327 1.327 0 0015.573 3.9z"/></g>
-  <text x="37" y="22" font-family="Segoe UI, Verdana, sans-serif" font-size="12" font-weight="700" letter-spacing=".25" fill="#FFFFFF">PyTorch</text>
+  <style>
+    .caption { fill: #AEBACC; }
+    @media (prefers-color-scheme: light) {
+      .caption { fill: #475569; }
+      .geo-tile { fill: #F4F2ED; }
+      .geo-logo { fill: #14795D; }
+    }
+  </style>
+  <svg xmlns="http://www.w3.org/2000/svg" width="44" height="44" title="PyTorch" viewBox="0 0 256 256" fill="none" id="pytorch" x="18" y="2" aria-hidden="true">
+<style>
+#pytorch {
+    rect {fill: #15191C}
+
+    @media (prefers-color-scheme: light) {
+        rect {fill: #F4F2ED}
+    }
+}
+</style>
+<rect width="256" height="256" rx="64" fill="#15191C" stroke="#8496AD" stroke-width="5" stroke-opacity=".14" />
+<path d="M176.105 93.7638L163.977 105.892C183.891 125.806 183.891 157.848 163.977 177.463C144.063 197.377 112.02 197.377 92.4058 177.463C72.4918 157.549 72.4918 125.506 92.4058 105.892L128.491 69.807V46L80.8766 93.6141C54.3745 120.116 54.3745 162.939 80.8766 189.441C107.379 215.943 150.201 215.943 176.254 189.441C202.607 162.939 202.607 120.416 176.105 93.7638Z" fill="#EE4C2C" />
+<path d="M152.298 90.9189C157.177 90.9189 161.132 86.9639 161.132 82.085C161.132 77.2061 157.177 73.2509 152.298 73.2509C147.419 73.2509 143.464 77.2061 143.464 82.085C143.464 86.9639 147.419 90.9189 152.298 90.9189Z" fill="#EE4C2C" />
+</svg>
+  <text class="caption" x="40" y="62" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="10.5" font-weight="550">PyTorch</text>
 </svg>
