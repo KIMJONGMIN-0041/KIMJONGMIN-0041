@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Zome
 
-<!--
-**KIMJONGMIN-0041/KIMJONGMIN-0041** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![TokenPhage usage card with Chiikawa](https://kimjongmin-0041.github.io/tokenphage-badge-proxy/badges/KIMJONGMIN-0041.svg)](https://kimjongmin-0041.github.io/tokenphage-badge-proxy/)
 
-Here are some ideas to get you started:
+## Education
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **M.S. in Data Science**, Pusan National University (2026.03 ~ 2028.02)
+  - Advisor: Prof. Hyerim Bae
+
+## Skills
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="42" alt="Python" title="Python">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" height="42" alt="PyTorch" title="PyTorch">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" height="42" alt="scikit-learn" title="scikit-learn">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" height="42" alt="NumPy" title="NumPy">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" height="42" alt="pandas" title="pandas">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" height="42" alt="Jupyter" title="Jupyter">
+</p>
