@@ -7,11 +7,6 @@
 - **M.S. in Data Science**, Pusan National University (2026.03 ~ 2028.02)
   - Advisor: Prof. Hyerim Bae
 
-## Education
-
-- **M.S. in Data Science**, Pusan National University (2026.03 ~ 2028.02)
-  - Advisor: Prof. Hyerim Bae
-
 ## 🧰 Skills
 
 ![Python](https://img.shields.io/badge/Python-3674A9?style=for-the-badge&logo=python&logoColor=white)
