@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="114" height="38" viewBox="0 0 114 38" role="img" aria-label="DuckDB">
+  <title>DuckDB</title>
+  <defs>
+    <linearGradient id="face" x2="0" y2="1"><stop stop-color="#7E6721"/><stop offset="1" stop-color="#4B3815"/></linearGradient>
+    <linearGradient id="rim" x2="0" y2="1"><stop stop-color="#FFE386"/><stop offset="1" stop-color="#7E6721"/></linearGradient>
+    <linearGradient id="tile" x2="0" y2="1"><stop stop-color="#4B3815"/><stop offset="1" stop-color="#7E6721"/></linearGradient>
+  </defs>
+  <rect x="1" y="4" width="112" height="32" rx="8" fill="#05080E" opacity=".32"/>
+  <rect x="1.5" y="1.5" width="111" height="32" rx="8" fill="url(#face)" stroke="url(#rim)"/>
+  <rect x="3" y="3" width="108" height="30" rx="7" fill="none" stroke="#FFFFFF" opacity=".13"/>
+  <rect x="7" y="6" width="23" height="23" rx="6" fill="url(#tile)" stroke="#FFE386" stroke-opacity=".5"/>
+  <g transform="translate(10.5 9.5) scale(.67)" fill="#FFFFFF"><path d="M12 0C5.363 0 0 5.363 0 12s5.363 12 12 12 12-5.363 12-12S18.637 0 12 0zM9.502 7.03a4.974 4.974 0 0 1 4.97 4.97 4.974 4.974 0 0 1-4.97 4.97A4.974 4.974 0 0 1 4.532 12a4.974 4.974 0 0 1 4.97-4.97zm6.563 3.183h2.351c.98 0 1.787.782 1.787 1.762s-.807 1.789-1.787 1.789h-2.351v-3.551z"/></g>
+  <text x="37" y="22" font-family="Segoe UI, Verdana, sans-serif" font-size="12" font-weight="700" letter-spacing=".25" fill="#FFFFFF">DuckDB</text>
+</svg>

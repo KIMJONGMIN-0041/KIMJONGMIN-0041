@@ -9,10 +9,14 @@
 
 ## 🧰 Skills
 
-![Python](https://img.shields.io/badge/Python-3674A9?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-B63B2E?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-A95112?style=for-the-badge&logo=scikitlearn&logoColor=white)
+<p><img src="assets/skills/python.svg" alt="Python" width="107" height="38">
+<img src="assets/skills/pytorch.svg" alt="PyTorch" width="114" height="38">
+<img src="assets/skills/scikitlearn.svg" alt="scikit-learn" width="137" height="38"></p>
 
-![NumPy](https://img.shields.io/badge/NumPy-176D73?style=for-the-badge&logo=numpy&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-49377D?style=for-the-badge&logo=pandas&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-A54426?style=for-the-badge&logo=jupyter&logoColor=white)
+<p><img src="assets/skills/numpy.svg" alt="NumPy" width="107" height="38">
+<img src="assets/skills/pandas.svg" alt="pandas" width="110" height="38">
+<img src="assets/skills/jupyter.svg" alt="Jupyter" width="113" height="38"></p>
+
+<p><img src="assets/skills/geopandas.svg" alt="GeoPandas" width="132" height="38">
+<img src="assets/skills/duckdb.svg" alt="DuckDB" width="114" height="38">
+<img src="assets/skills/leaflet.svg" alt="Leaflet" width="112" height="38"></p>
