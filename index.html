@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="en">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>KIMJONGMIN-0041 · TokenPhage</title>
+<main>
+  <h1>TokenPhage badges for KIMJONGMIN-0041</h1>
+  <section>
+    <h2>Usage card</h2>
+    <a href="badges/KIMJONGMIN-0041.svg"><img src="badges/KIMJONGMIN-0041.svg" alt="TokenPhage usage card for KIMJONGMIN-0041"
+      style="max-width:100%;height:auto"></a>
+    <p hidden><label>Profile README Markdown<br><input readonly size="80" style="max-width:95%"></label></p>
+  </section>
+  <section>
+    <h2>Annual activity heatmap</h2>
+    <a href="badges/KIMJONGMIN-0041-grass-claude.svg"><img src="badges/KIMJONGMIN-0041-grass-claude.svg" alt="Annual token activity for KIMJONGMIN-0041"
+      style="max-width:100%;height:auto"></a>
+    <p hidden><label>Profile README Markdown<br><input readonly size="80" style="max-width:95%"></label></p>
+  </section>
+</main>
+<script>
+for (const section of document.querySelectorAll("section")) {
+  const image = section.querySelector("img");
+  const field = section.querySelector("input");
+  field.value = "![" + image.alt + "](" + image.src + ")";
+  field.addEventListener("focus", () => field.select());
+  field.closest("p").hidden = false;
+}
+</script>
+</html>
